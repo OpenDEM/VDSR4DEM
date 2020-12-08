@@ -1,5 +1,6 @@
 # VDSR4DEM
-Very Deep Super Resolution (VDSR) CNN based on the implementation of George Seif [GitHub](https://github.com/GeorgeSeif/VDSR-Keras).
+Very Deep Super Resolution (VDSR) for improved resolution of Digital Elevation Models
+Based on the implementation of George Seif [GitHub](https://github.com/GeorgeSeif/VDSR-Keras).
 Thanks to [Zushicat](https://github.com/zushicat) for the support.
 
 An implementation of the Super Resolution CNN proposed in:
