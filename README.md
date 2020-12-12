@@ -1,4 +1,7 @@
 # VDSR4DEM
+
+Have a look at [https://opendem.info/superResolution.html](https://opendem.info/superResolution.html) for detailed information. 
+
 Very Deep Super Resolution (VDSR) for improved resolution of Digital Elevation Models.
 
 Based on the implementation of George Seif [GitHub](https://github.com/GeorgeSeif/VDSR-Keras).
